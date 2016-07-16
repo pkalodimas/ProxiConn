@@ -37,6 +37,7 @@ footer, header, hgroup, menu, nav, section {
 
 ol, ul {
   list-style: none;
+  text-align: justify;
 }
 
 table {
