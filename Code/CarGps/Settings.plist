@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>last_user</key>
+	<true/>
+	<key>autologin</key>
+	<true/>
+	<key>neighbor_range</key>
+	<integer>1000</integer>
+	<key>neighbor_uptime</key>
+	<integer>10</integer>
+	<key>seesion_uptime</key>
+	<integer>5</integer>
+	<key>server</key>
+	<string>prometheus.ece.tuc.gr</string>
+	<key>server_url</key>
+	<string>/clients/index.php</string>
+	<key>map_type</key>
+	<integer>0</integer>
+	<key>map_follow_user</key>
+	<true/>
+	<key>map_retain_range</key>
+	<false/>
+	<key>gps_activity</key>
+	<integer>4</integer>
+	<key>gps_accuracy</key>
+	<integer>0</integer>
+	<key>gps_distance_filter</key>
+	<integer>5</integer>
+	<key>station</key>
+	<false/>
+</dict>
+</plist>
